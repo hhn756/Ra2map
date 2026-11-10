@@ -1,3 +1,7 @@
+; Copyright (c) 2026 hn
+; This file is licensed under the MIT License.
+; See the LICENSE file in the project root (https://github.com/hhn756/Ra2map) for full details.
+
 ; Written by the World-Altering Editor (WAE)
 ; all comments have been truncated
 ; github.com/CnCNet/WorldAlteringEditor
@@ -1337,7 +1341,7 @@ Size=0,0,400,59
 NextScenario=
 AltNextScenario=
 Name=1V7 INF
-Author=A Human
+Author=hn
 GameMode=standard
 NewINIFormat=4
 CarryOverCap=0
